@@ -1,0 +1,42 @@
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\bin\Debug\netstandard2.0\ControlsDemo.deps.json
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\bin\Debug\netstandard2.0\ControlsDemo.dll
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\bin\Debug\netstandard2.0\ControlsDemo.pdb
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.csproj.AssemblyReference.cache
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\PresentationsViewsDemo.xaml.g.cs
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.AssemblyInfoInputs.cache
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.AssemblyInfo.cs
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.csproj.CoreCompileInputs.cache
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.dll
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\refint\ControlsDemo.dll
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.pdb
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ref\ControlsDemo.dll
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\CommandsViewsDemo.xaml.g.cs
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\InputViewsDemo.xaml.g.cs
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\TextViewsDemo.xaml.g.cs
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ActivityIndicatorsDemo.xaml.g.cs
+C:\Users\NACH VLAD TEPES\Desktop\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\CollectionsDemo.xaml.g.cs
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\bin\Debug\netstandard2.0\ControlsDemo.deps.json
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\bin\Debug\netstandard2.0\ControlsDemo.dll
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\bin\Debug\netstandard2.0\ControlsDemo.pdb
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.csproj.AssemblyReference.cache
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ActivityIndicatorsDemo.xaml.g.cs
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\CollectionsDemo.xaml.g.cs
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\CommandsViewsDemo.xaml.g.cs
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\InputViewsDemo.xaml.g.cs
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\PresentationsViewsDemo.xaml.g.cs
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\TextViewsDemo.xaml.g.cs
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.AssemblyInfoInputs.cache
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.AssemblyInfo.cs
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.csproj.CoreCompileInputs.cache
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\XamlC.stamp
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.dll
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\refint\ControlsDemo.dll
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ControlsDemo.pdb
+F:\DOCENCIA\2022_3\ACTIVIDADES\LIAF\901\liaf-901\ControlsDemo\ControlsDemo\ControlsDemo\obj\Debug\netstandard2.0\ref\ControlsDemo.dll

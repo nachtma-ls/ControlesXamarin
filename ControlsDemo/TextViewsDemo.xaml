@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControlsDemo.TextViewsDemo">
+    <ContentPage.Content>
+        <StackLayout>
+            <!--Cajas de texto, TextChange hace validacion del texto-->
+            <Entry Placeholder="Nombre:" PlaceholderColor="Yellow" x:Name="txtName"
+                   TextChanged="txtName_TextChanged"
+                   Completed="txtName_Completed"
+                   IsPassword="True"
+                   Keyboard="Telephone"/>
+            <!--Muchas lineas-->
+            <Editor AutoSize="TextChanges"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

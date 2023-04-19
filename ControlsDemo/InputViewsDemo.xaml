@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControlsDemo.InputViewsDemo">
+    <ContentPage.Content>
+        <StackLayout>
+            <!--CheckedChange nos permite generar evento-->
+            <CheckBox IsChecked="True"/>
+            <!--Slider-->
+            <!--MinimunTRACK ES EL COLOR QUE SELECCIONAMOS-->
+            <!--MaximunTRACK ES EL COLOR QUE NO SELECCIONAMOS-->
+            <!--Si queremos ver los valores añadimos un label y usamos valueChange-->
+            <Slider x:Name="slider" Minimum="0" Maximum="10"
+                    MinimumTrackColor="Yellow"
+                    MaximumTrackColor="Green"
+                    ThumbColor="DarkRed" ValueChanged="slider_ValueChanged"/>
+            <Label x:Name="lblSlider"/>
+            <!--Stepper-->
+            <Stepper x:Name="stepper" ValueChanged="stepper_ValueChanged"
+                     Maximum="10" Minimum="0"
+                     Increment="2"/>
+            <!--Switch, toggled nos da un evento-->
+            <Switch IsToggled="True"/>
+            <!--DatePicker, dateSelected es un evento con la fecha-->
+            <DatePicker />
+            <!--TimePicker, format | time-->
+            <TimePicker/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

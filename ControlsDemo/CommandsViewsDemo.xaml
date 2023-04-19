@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControlsDemo.CommandsViewsDemo">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button x:Name="btnTest" Text="Click Me" Clicked="btnTest_Clicked"/>
+            <ImageButton Source="icono.png" BackgroundColor="White" Clicked="btnTest_Clicked"/>
+            <!--<Image Source="icono.png" BackgroundColor="Yellow"/>-->
+            <!--Grupos de Radio Buttons-->
+            <RadioButton Content="Option 1" GroupName="gp1" CheckedChanged="RadioButton_CheckedChanged"/>
+            <RadioButton Content="Option 2" GroupName="gp1"/>
+            <RadioButton Content="Option 3" GroupName="gp2"/>
+            <RadioButton Content="Option 4" GroupName="gp2" IsChecked="True"/>
+            <!--SearchBar-->
+            <SearchBar BackgroundColor="White" x:Name="searchControl" SearchButtonPressed="searchControl_SearchButtonPressed"/>
+            <!--Swipe-->
+            <SwipeView>
+                <SwipeView.LeftItems>
+                    <SwipeItems>
+                        <SwipeItem BackgroundColor="LightGreen" IconImageSource="icono.png" Text="Favorite"
+                                   Invoked="SwipeItem_Invoked"/>
+                        <SwipeItem BackgroundColor="LightPink" IconImageSource="icono.png" Text="Delete"
+                                   Invoked="SwipeItem_Invoked"/>
+                    </SwipeItems>
+                </SwipeView.LeftItems>
+                <!--CONTENIDO-->
+                <Grid BackgroundColor="LightGray" HeightRequest="60" WidthRequest="300">
+                    <Label HorizontalOptions="Center" Text="Swipe Right" TextColor="Black" VerticalOptions="Center"/>
+                </Grid>
+            </SwipeView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

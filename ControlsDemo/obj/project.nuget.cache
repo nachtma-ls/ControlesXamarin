@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "W2DmFHDY9l/Qr7xCT1Lx99Ie+1iM/eLMUoLb0dTqs6q9c01UGIkqOW98QeiE/eXds0PmCoYJ40wl6bZbqbE30Q==",
+  "success": true,
+  "projectFilePath": "F:\\DOCENCIA\\2022_3\\ACTIVIDADES\\LIAF\\901\\liaf-901\\ControlsDemo\\ControlsDemo\\ControlsDemo\\ControlsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nach\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nach\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Nach\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Nach\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Nach\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
